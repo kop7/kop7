@@ -1,4 +1,4 @@
-Hi 👋, I'm **[Matija](https://www.linkedin.com/in/mkop)** living Zagreb. I write in Javascript, Typescript and PHP. I mostly work as a Back End Developer, sometimes can talk to databases and make servers do stuff. Please feel free to check out my work and let's have coffee a video chat if you'd like to hear more.
+Hi 👋, I'm **[Matija](https://www.linkedin.com/in/mkop)** living in Zagreb. I write in Javascript, Typescript and PHP. I mostly work as a Back End Developer, sometimes can talk to databases and make servers do stuff. Please feel free to check out my work and let's have coffee a video chat if you'd like to hear more.
  
 <br>
 
