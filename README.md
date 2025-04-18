@@ -2,7 +2,6 @@ Hi 👋, I'm **[Matija](https://www.linkedin.com/in/mkop)** living in Zagreb. I 
  
 <br>
 
-[<img align="center" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif" width="700" height="400">][github]
 
 <br>
 
